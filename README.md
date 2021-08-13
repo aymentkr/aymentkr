@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aymentkr
+- 👀 I’m interested in IT, App Development, Blockchain and Cloud computing.
+- 🌱 I’m currently learning Computer science.
+- 💞️ I’m looking to collaborate with other developers.
+- ⚡ Fun fact: I love making soundtracks.
